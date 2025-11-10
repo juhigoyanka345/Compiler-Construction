@@ -15,3 +15,4 @@ printf("enter a sentence: ");
 yylex();
 printf("Words: %d\n",count_A);
 }
+
